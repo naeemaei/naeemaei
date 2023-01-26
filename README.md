@@ -1,4 +1,4 @@
-I'm [Hamed Naeemaei](https://www.linkedin.com/in/naeemaei/). I graduated in Software Engineering and currently I am a tech lead and full stack software engineer. I specialize in C# and have professional experience working with ASP.Net Core and Angular in large scale applications. I also have experience using Javascript, MSSQL Server, Type Script, Docker, ELK, Prometheus.
+I'm [Hamed Naeemaei](https://www.linkedin.com/in/naeemaei/). I graduated in Software Engineering and currently I am a tech lead and full stack software engineer. I specialize in golang and C# that have professional experience working with golang, ASP.Net Core and Angular in large scale applications. I also have experience using Javascript, MSSQL Server, Type Script, Docker, ELK, Prometheus.
   <br /> 
   <br /> 
 Find out more about me:  
