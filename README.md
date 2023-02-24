@@ -1,43 +1,31 @@
-I'm [Hamed Naeemaei](https://www.linkedin.com/in/naeemaei/). I graduated in Software Engineering and currently I am a tech lead and full stack software engineer. I specialize in golang and C# that have professional experience working with golang, ASP.Net Core and Angular in large scale applications. I also have experience using Javascript, MSSQL Server, Type Script, Docker, ELK, Prometheus.
-  <br /> 
-  <br /> 
-Find out more about me:  
-<br /> 
-[![Linkedin Badge](https://img.shields.io/badge/-naeemaei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naeemaei/)](https://www.linkedin.com/in/naeemaei/)
-[![Gmail Badge](https://img.shields.io/badge/-h.naimaei@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:h.naimaei@gmail.com)](mailto:h.naimaei@gmail.com)
+<h1 align="center">Hi 👋, I'm Hamed Naeemaei</h1>
+<h3 align="center">A passionate backend developer from Iran</h3>
 
-  <summary>👨‍💻 Technologies </summary>
-  
-  <br />  
- 
-  <p align="center">
-    <a href="https://docs.microsoft.com/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" /></a>
-    <a href="https://docs.microsoft.com/dotnet/" target="_blank"><img align="left" alt=".NET Core" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /></a>
-    <a href="https://docs.microsoft.com/aspnet/core/" target="_blank"><img align="left" alt="ASP.NET Core" width="40" height="40" src="http://umutluoglu.com/wp-content/uploads/2016/07/aspnet-core-logo.png" /></a>  
-    <a href="https://golang.org/" target="_blank"><img align="left" alt="Golang" width="65" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png" /></a>
-     <a href="https://angular.io/" target="_blank"><img align="left" alt="Angular" width="40" height="40" src="https://simpleicons.org/icons/angular.svg" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a>
-          <a href="https://www.microsoft.com/sql-server/" target="_blank"><img align="left" alt="Microsoft SQL Server" width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" /></a>
-  </p>
-  <br />
-    <br />
-  <p align="center">
-          <a href="https://www.docker.com/" target="_blank"><img align="left" alt="Docker" width="100" height="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" /></a>
-      <a href="https://www.rabbitmq.com/" target="_blank"><img align="left" alt="Rabbitmq" width="100" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" /></a>
-          <a href="https://www.elastic.co/" target="_blank"><img align="left" alt="Elastic" width="100" height="60" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elasticsearch_logo.svg" /></a>
-          <a href="https://prometheus.io/" target="_blank"><img align="left" alt="prometheus" width="80" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naeemaei&label=Profile%20views&color=0e75b6&style=flat" alt="naeemaei" /> </p>
 
-  </p>
-  
-  <br />
-  <br />  
-    <br />
-      <br />
-  
-<summary>:zap: GitHub Stats</summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naeemaei" alt="naeemaei" /></a> </p>
 
-  <br />  
+- 🔭 I’m currently working on **Asan Pardakht**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=naeemaei&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeemaei&hide=TeX&layout=compact)
+- 🌱 I’m currently learning **golang and dotnet projects**
 
+- 💬 Ask me about **golang, c#**
+
+- 📫 How to reach me **h.naimaei@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/naeemaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="naeemaei" height="30" width="40" /></a>
+<a href="https://twitter.com/naeemaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naeemaei" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naeemaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naeemaei" height="30" width="40" /></a>
+<a href="https://instagram.com/naeemaei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naeemaei" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeemaei&show_icons=true&locale=en&layout=compact" alt="naeemaei" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naeemaei&show_icons=true&locale=en" alt="naeemaei" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeemaei&" alt="naeemaei" /></p>
