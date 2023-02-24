@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Asan Pardakht**
 
-- 🌱 I’m currently learning **golang and dotnet projects**
+- 🌱 I’m currently working on **golang and dotnet (Banking projects)**
 
 - 💬 Ask me about **golang, c#**
 
